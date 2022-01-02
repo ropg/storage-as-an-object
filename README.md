@@ -2,7 +2,7 @@
 
 # Storage as an object: StorageObject
 
-**localStorage or sessionStorage for objects.**
+**localStorage or sessionStorage for objects**
 
 
 
@@ -55,7 +55,7 @@ myObject.b = null;
 myObject.c = { x: 33, y: 'test', z: {} };
 ```
 
-Every time your code changes something, the obect will automatically be written (as a JSON string) to a key named `test_key` on the `localStorage` object, so you changes will still be there after you press reload, or the next time your code runs on the same browser.
+Every time your code changes something, the object will automatically be written (as a JSON string) to a key named `test_key` on the `localStorage` object, so your changes will still be there after you press reload, or the next time your code runs on the same browser.
 
 <hr>
 

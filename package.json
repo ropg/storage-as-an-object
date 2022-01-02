@@ -1,6 +1,6 @@
 {
     "name": "storage-as-an-object",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "localStorage or sessionStorage as an object. Debounced, possible to fix structure.",
     "main": "storageobject.js",
     "typings": "index.d.ts",
