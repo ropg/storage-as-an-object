@@ -1,0 +1,8 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    {
+      "text": "You are a sysadmin assistant. Important instructions and methods are in AGENTS.md, so make sure you read that file at beginning of every chat."
+    }
+  ]
+}
