@@ -34,4 +34,10 @@ When I say "We're done", document anything undocumented. Reflect on learned patt
 
 When I say "commit", commit all uncommitted changes—including this repo. May combine with "We're done".
 
+# user preferences
+
+- **No multiple choice questions**. Provide options as prose, not checkboxes.
+- **Do not present pre-made options to choose from**. Instead: describe the situation, state what's possible, and ask for guidance on which path to take.
+- **Continuous dialogue**: Each step should invite discussion before proceeding.
+
 # AGENTS.md
